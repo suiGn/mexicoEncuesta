@@ -21,5 +21,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/suiGn/mexicoEncuesta.git"
-  }
+  },
+  "author": "suiGn",
+  "license": "MIT",
+  "repoType": "App"
 }
