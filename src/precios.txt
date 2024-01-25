@@ -1,0 +1,55 @@
+Café:
+  - Córdoba: $ [Precio]
+  - Orizaba: $ [Precio]
+  - Fortín: $ [Precio]
+  - Puebla: $ [Precio]
+  - México: $ [Precio]
+  - Veracruz: $ [Precio]
+
+Aguacate:
+  - Córdoba: $ [Precio]
+  - Orizaba: $ [Precio]
+  - Fortín: $ [Precio]
+  - Puebla: $ [Precio]
+  - México: $ [Precio]
+  - Veracruz: $ [Precio]
+
+Gasolina Premium:
+  - Córdoba: $ [Precio]
+  - Orizaba: $ [Precio]
+  - Fortín: $ [Precio]
+  - Puebla: $ [Precio]
+  - México: $ [Precio]
+  - Veracruz: $ [Precio]
+
+Gasolina Regular:
+  - Córdoba: $ [Precio]
+  - Orizaba: $ [Precio]
+  - Fortín: $ [Precio]
+  - Puebla: $ [Precio]
+  - México: $ [Precio]
+  - Veracruz: $ [Precio]
+
+Diésel:
+  - Córdoba: $ [Precio]
+  - Orizaba: $ [Precio]
+  - Fortín: $ [Precio]
+  - Puebla: $ [Precio]
+  - México: $ [Precio]
+  - Veracruz: $ [Precio]
+
+Aluminio:
+  - Córdoba: $ [Precio]
+  - Orizaba: $ [Precio]
+  - Fortín: $ [Precio]
+  - Puebla: $ [Precio]
+  - México: $ [Precio]
+  - Veracruz: $ [Precio]
+
+Hierro:
+  - Córdoba: $ [Precio]
+  - Orizaba: $ [Precio]
+  - Fortín: $ [Precio]
+  - Puebla: $ [Precio]
+  - México: $ [Precio]
+  - Veracruz: $ [Precio]
